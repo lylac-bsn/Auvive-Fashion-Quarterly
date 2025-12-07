@@ -12,6 +12,7 @@ It asks smart, personalised questions, learns from preferences, and delivers cur
 <video src="auvive-demo-video.MOV" controls width="100%">
   Your browser does not support the video tag. You can download the video <a href="auvive-demo-video.MOV">here</a>.
 </video>
+Presenter: Yurara Ito
 
 ---
 
@@ -52,7 +53,7 @@ It asks smart, personalised questions, learns from preferences, and delivers cur
 - **Database:** AWS DynamoDB    
 - **Authentication:** AWS Cognito & Google OAuth  
 - **Storage:** AWS S3    
-- **AI Integration:** OpenAI API / AWS Bedrock    
+- **AI Integration:** AWS Bedrock - Claude Haiku 3.0    
 - **Hosting:** AWS Amplify (frontend), API Gateway (backend)    
 - **Monitoring & Logs:** AWS CloudWatch  
 
@@ -85,19 +86,19 @@ API Gateway **CORS** is properly configured in both, and the frontend automatica
 
 ## 🌐 Live Application  
 
-Visit our app: **[https://main.d3c2wxkc01usu3.amplifyapp.com](https://main.d3c2wxkc01usu3.amplifyapp.com)**  
+Visit our app:  Please contact Yurara for access.
 
 ---
 
 ## 👥 Team 
 
 **Team 8 — AIvengers**  
-- Annabelle Ding   
-- Chloe Lee    
-- Helen Man    
-- Rachel Yuan    
-- Yule Zhan    
-- Yurara Ito    
+Team Lead / Full Stack Developer: Yurara Ito  
+Backend Developer: Rachel Yuan   
+Frontend Developer: Chloe Lee  
+Project Assistant: Annabelle Ding      
+Project Assistant: Helen Man        
+Project Assistant: Yule Zhan     
 
 ---
 
