@@ -9,10 +9,10 @@ It asks smart, personalised questions, learns from preferences, and delivers cur
 
 ## 🎬 Demo Video
 
-<video src="auvive-demo-video.MOV" controls width="100%">
-  Your browser does not support the video tag. You can download the video <a href="auvive-demo-video.MOV">here</a>.
-</video>
-Presenter: Yurara Ito
+📹 **[Watch Demo Video](auvive-demo-video.MOV)**  
+*Click the link above to view or download the demonstration video.*
+
+**Presenter:** Yurara Ito
 
 ---
 
