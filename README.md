@@ -88,6 +88,8 @@ API Gateway **CORS** is properly configured in both, and the frontend automatica
 
 Visit our app:  Please contact Yurara for access.
 
+📩 lylac.bsn@gmail.com
+
 ---
 
 ## 👥 Team 
